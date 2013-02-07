@@ -1,0 +1,6 @@
+Jinja2==2.6
+PyYAML==3.10
+ansible==0.9
+paramiko==1.9.0
+pycrypto==2.6
+wsgiref==0.1.2
